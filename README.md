@@ -1,2 +1,0 @@
-# Newt
-Project GitHub
